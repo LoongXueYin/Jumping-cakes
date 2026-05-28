@@ -1,0 +1,6 @@
+node_modules/
+android/
+www/
+generate-icons.html
+build-apk.sh
+*.zip

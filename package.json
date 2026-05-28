@@ -1,0 +1,11 @@
+{
+  "name": "bunny-vs-cake",
+  "version": "1.0.0",
+  "description": "兔子躲蛋糕 - 点击跳跃躲避蛋糕堆叠成山",
+  "main": "index.html",
+  "dependencies": {
+    "@capacitor/android": "^7.4.0",
+    "@capacitor/core": "^7.4.0",
+    "@capacitor/cli": "^7.4.0"
+  }
+}
